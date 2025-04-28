@@ -1,0 +1,11 @@
+nombre_usuario,unidad_organizativa,grupo1,grupo2
+medico1,1Personal_Sanitario,SG_Sanitario,SG_Residente
+medico2,2Personal_Sanitario,SG_Sanitario,SG_Residente
+medico2,3Personal_Sanitario,SG_Sanitario,SG_Jefe
+medico3,3Personal_Sanitario,SG_Sanitario,SG_Jefe
+medico4,4Personal_Sanitario,SG_Sanitario,SG_Residente
+medico5,5Personal_Sanitario,SG_Sanitario,SG_Jefe
+medico6,6Personal_Sanitario,SG_Residente,SG_Jefe
+jefe1,3333Personal_Sanitario,SG_Residente,SG_JefeResidente
+jefe2,3333Personal_Sanitario,SG_Residente,SG_JefeResidente
+enfermero1,4Personal_Sanitario,SG_Enfermero,SG_Jefe

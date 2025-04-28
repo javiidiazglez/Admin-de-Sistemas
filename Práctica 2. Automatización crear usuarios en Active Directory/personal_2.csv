@@ -1,0 +1,11 @@
+nombre_usuario,unidad_organizativa,grupo1,grupo2
+tecnico1,1Equipo_Asistencial,SG_Asistencial,SG_Residente
+tecnico2,2Equipo_Asistencial,SG_Asistencial,SG_Residente
+tecnico2,3Equipo_Asistencial,SG_Asistencial,SG_Jefe
+tecnico3,3Equipo_Asistencial,SG_Asistencial,SG_Jefe
+tecnico4,4Equipo_Asistencial,SG_Asistencial,SG_Residente
+tecnico5,5Equipo_Asistencial,SG_Asistencial,SG_Jefe
+tecnico6,6Equipo_Asistencial,SG_Residente,SG_Jefe
+jefe1,3333Equipo_Asistencial,SG_Residente,SG_JefeResidente
+jefe2,3333Equipo_Asistencial,SG_Residente,SG_JefeResidente
+auxiliar1,7Equipo_Asistencial,SG_Auxiliar,SG_Jefe
